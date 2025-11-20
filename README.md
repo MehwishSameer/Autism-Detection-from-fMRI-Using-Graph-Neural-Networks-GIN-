@@ -37,8 +37,6 @@ Using these subject-specific brain graphs, a **Graph Isomorphism Network (GIN)**
 * **Global pooling** to aggregate ROI information
 * Fully connected layer for classification
 
-Achieved **≈ 88–90% accuracy** on dataset.
-
 ---
 
 ## 🧠 **Why GNNs?**
